@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Hello World!
+title: 
 tagline: 
 ---
 {% include JB/setup %}
-
 
 ## Posts
 
